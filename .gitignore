@@ -1,6 +1,8 @@
 # Python virtual environment
 venv/
 venv310/
+
+# Environment variables
 .env
 
 # Python cache
